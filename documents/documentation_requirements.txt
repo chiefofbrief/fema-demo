@@ -1,0 +1,165 @@
+Documentation Requirements
+This document provides detailed documentation requirements by category. For foundational eligibility criteria, see General Eligibility Considerations and Emergency Work Eligibility.
+Eligibility Documentation
+Legal Responsibility
+Small Projects:
+Certification that the facility and work are the applicant's legal responsibility
+Large Projects: If necessary to validate legal responsibility, applicants must provide one or more of the following:
+Deed
+Title
+Lease agreement (required for leased facilities)
+Bill of sale
+Land contract
+Mortgage booklet or reoccurring mortgage payments
+Property tax receipt or property tax bill
+Real property structured insurance policy
+Contract (required for facilities under construction at the time of the incident)
+Work Eligibility
+Small Projects:
+Detailed description of work performed
+Certification that:
+Work is result of immediate threat
+Activities required as result of declared incident
+Work located on improved property and in declared area
+Applicant legally responsible for conducting work
+Large Projects:
+Detailed description of work performed
+Description of immediate threat
+Records demonstrating presence of immediate threat (technical reports, safety inspector reports, photographs) if threat not apparent from descriptions
+Insurance Documentation
+Required Insurance Information:
+Property insurance
+Auto insurance
+Flood insurance
+Wind insurance
+Self-insurance or self-insured retention
+Policy Documentation:
+Property policy declaration pages
+Schedule of covered locations
+Property policy forms and endorsements
+Inland marine coverage section
+Equipment breakdown section
+Settlement Information (when available):
+Final statement of loss
+Adjuster's estimates
+Settlement checks or documentation supporting total insurance proceeds
+Correspondence explaining settlement amount and allocation
+Letter of denial
+Cost Documentation
+Force Account (Employee) Labor
+Small Projects - Summary Documentation:
+Number of employees
+Total budgeted hours
+Total unbudgeted hours
+Average straight-time pay rate with fringe benefits
+Average overtime pay rates with fringe benefits
+Large Projects - Detailed Documentation:
+Pay policy
+For each employee:
+Name
+Job title and function
+Type of employee (full-time exempt, full-time non-exempt, part-time, temporary)
+Date and hours worked
+Pay rate and fringe benefit rate
+Description of work performed with daily logs/activity reports
+Timesheets
+Fringe benefit calculations
+Equipment Costs
+Applicant-Owned Equipment:
+Small Projects:
+Itemized cost summary by equipment type:
+Total usage hours
+Total cost
+Large Projects:
+Itemized cost summary by equipment type:
+Type of equipment and attachments (year, make, model, size, capacity, horsepower, wattage as applicable)
+Location(s) or site(s) used
+Equipment code (if using FEMA rates)
+Schedule of rates including rate components (if not using FEMA rates)
+Operator name with date and hours used each day
+Purchased Equipment:
+Small Projects:
+Itemized cost summary by equipment type:
+Total cost
+Large Projects:
+Itemized cost summary by equipment type:
+Invoices or receipts
+Rented/Leased Equipment:
+Small Projects:
+Total usage days or hours
+Total cost
+Large Projects:
+Type of equipment (make, model, size, capacity, horsepower, wattage as applicable)
+Location or site used
+Dates and hours used (required if lease charges hourly rates)
+Rates and total cost
+Vendor and invoice number
+Amount of fuel used (if not included in rental cost)
+Lease agreement
+Invoices or receipts
+Materials and Supplies
+Small Projects:
+Type and quantity
+Total cost
+Large Projects:
+From Stock:
+Cost documentation (original invoices or historical cost records)
+Inventory records
+Type of supplies and quantities used
+Location used
+Purchased:
+Receipts or invoices
+Quantities used
+Justification (required if supplies were not used)
+Contract Costs
+Small Projects: For each contractor:
+Procurement method (competitive or non-competitive)
+Type of contract (fixed, time-and-materials, cost-plus-percentage/percentage of construction, other)
+Total contract award
+Large Projects:
+Cost Summary for each contractor:
+Contractor name
+Dates worked
+Billing or invoice number
+Amount
+Description of work performed
+Procurement Documents:
+Requests for proposals
+Bids
+Selection process
+Procurement policy
+Cost or price analysis
+Contracts and change orders
+Invoices
+Time-and-Materials Contract Oversight (when applicable):
+Daily or weekly logs
+Records of performance meetings
+Work-Specific Documentation
+Debris Removal and Disposal
+Small Projects:
+Estimated or actual debris quantities removed, reduced, disposed, and recycled by type
+If debris removal is contracted: documentation to substantiate monitoring was conducted
+Location of temporary debris staging and reduction sites (TDSRs) and permanent disposal sites
+Type of disposal site (municipal, private, commercial); if commercial, name of vendor
+Large Projects - All Small Project Requirements Plus:
+Copies of permits and authorization for reduction and disposal sites
+Load tickets
+Photographs of debris impacts
+If debris removal is contracted:
+Proof of monitoring
+Tower logs
+Documentation to substantiate debris is not pre-existing (for waterway debris removal)
+Documentation to substantiate coordination with other regulatory or federal agencies
+If removing vegetative debris in invasive species quarantine area:
+Name of quarantine area
+Method of disposal
+Confirmation debris disposed according to quarantine requirements
+If removing hazardous trees, limbs and stumps: documentation supporting specifics of immediate threat with location and photos
+Private Property Debris Removal (PPDR)
+Small and Large Projects:
+Written documentation identifying specific properties or areas where PPDR occurred
+Written statement from authorized applicant official that:
+Certifies applicant has legal authority and responsibility to remove debris from private property
+Cites all applicable sources of authority (law, ordinance, code, contract, etc.)
+Indemnifies federal government for any claim arising from debris removal
+Documentation to show work is eligible for PA funding
