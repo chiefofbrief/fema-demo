@@ -1,0 +1,76 @@
+Damage Inventory Guide
+
+Overview:
+Emergency Declaration only covers category A and B. Other categories (C-G) are provided below for context and for discussion with the user, but are not eligible in our prototype scenario.
+The questions below are not meant to be asked verbatim. They are guides on which questions to ask, but you should adapt the exact wording based on the scenario and the user's responses.
+Example: Do not ask: "Has the Applicant removed or plans to remove disaster-related debris?". Instead, ask: "Was there any debris in Sunnyvale from the storm? Have you removed it, or do you plan to?"
+
+Category A: Debris Removal
+
+Only proceed if Yes: Has the Applicant removed or plans to remove disaster-related debris?
+
+Required Information (Must gather for transition to Category B):
+Legal responsibility: Does the Applicant have the legal responsibility to perform the work?
+Immediate threat: Was the work required to lessen an immediate threat to public health and safety? (NOTE: This can be more of an internal assessment than a question)
+Pre-disaster condition: Was there any pre-existing damage?
+Work status: Has work started? If work has started: What percent is complete at this time?
+Types of debris: Which of the following types of debris were caused by the incident?
+Vegetative, Construction and demolition, White goods, E-waste, Sand/Soil/Mud, Stumps, Hazardous, Leaning Trees, Hanging Limbs, Wet Debris
+Quantities: What's your best estimate of the total amount of debris?
+Cost estimation: What's your best estimate of the total cost for this work?
+If work is completed: What was the actual cost?
+If work is planned: How did you estimate this cost? (contractor quote, historical costs, rough estimate) NOTE: This can be estimated by the AI using work performed
+Addresses: Where the debris has been or will be removed from?
+Labor type: Who performed/will perform the work?
+Applicant employees only, Contractors only, Both employees and contractors
+Environmental: NOTE: These questions are only relevant if there is debris in relevant areas (e.g., debris in a river).
+Will any proposed work impact any pristine or undisturbed area? 
+Will any proposed work occur in a floodplain or in close proximity to waterways or waterbodies? 
+Are there any hazardous materials at or adjacent to the damage site? 
+Are disposal sites properly permitted?
+
+Additional Depth Questions (Ask if time allows or user provides detailed responses):
+Disposal method: How was/will the debris be disposed of?
+Monitoring: Was work performed by contractors monitored?
+Equipment and Materials: Did you use your own equipment or materials?
+Insurance/duplication of benefits: Does the Applicant have insurance coverage on any facility damaged or emergency work performed as a result of this disaster?
+
+
+Category B: Emergency Protective Measures (EPM)
+
+Only proceed if Yes: Has the Applicant performed any emergency protective measures, or are they planning to? Examples include flood fighting, evacuations, sheltering, generators, extracting water, relocating equipment, purchasing materials, etc. 
+
+Required Information (Must gather to complete damage inventory):
+Legal responsibility: Does the Applicant have the legal responsibility to perform the work?
+Immediate threat: Was the work required to lessen an immediate threat to public health and safety? (NOTE: This can be more of an internal assessment than a question)
+Pre-disaster condition: Was there any pre-existing damage?
+Work status: Has work started? If work has started: What percent is complete at this time?
+Describe the EPMs conducted: What work was performed?
+Life safety: Emergency Access, Security, Barricades, Search and Rescue, Fire Fighting, Evacuations
+Flood response: Sandbagging, Flood Fighting, Emergency Pumping
+Facility protection: Slope Stabilization, Buttressing/Shoring, Mold Remediation
+Support services: EOC, Medical Care, Sheltering, Supplies/Commodities, Temporary Facilities
+Cost estimation: What's your best estimate of the total cost for this work? 
+If work is completed: What was the actual cost?
+If work is planned: How did you estimate this cost? (contractor quote, historical costs, rough estimate) NOTE: This can be estimated by the AI using work performed.
+Addresses: Where did the work occur?
+Labor type: Who performed/will perform the work?
+Applicant employees only, Contractors only, Both employees and contractors
+
+Additional Depth Questions (Ask if time allows or user provides detailed responses):
+Insurance/duplication of benefits: Does the Applicant have insurance coverage on any facility damaged or emergency work performed as a result of this disaster?
+Active use: Were impacted facilities in active use when the disaster occurred?
+Environmental: 
+Will any proposed work change the pre-disaster condition of the facility, cause any additional ground disturbance, or impact any pristine or undisturbed area?
+Will any proposed work occur in a floodplain or in close proximity to waterways or waterbodies? Is in-water work required?
+Are there any hazardous materials at or adjacent to the damage site?
+If sandbagging occurred, inquire about sand used and disposal site.
+Historical Preservation: Are any damaged facilities 45 years old or older?
+
+
+Permanent Work Categories (not included in emergency declaration)
+Category C: Roads and Bridges
+Category D: Water Control Facilities (dams, reservoirs, levees, canals, etc.)
+Category E: Buildings and Equipment
+Category F: Utilities
+Category G: Parks, Recreational, Other
