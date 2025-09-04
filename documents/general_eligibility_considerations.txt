@@ -1,0 +1,107 @@
+General Eligibility Considerations
+
+Overview:
+This document focuses primarily on the eligibility pyramid, the four basic building blocks that FEMA uses to determine eligibility. Additional category-specific eligibility considerations are covered separately in the Emergency Work Eligibility Considerations document. 
+The four components of the eligibility pyramid are: Applicant, Facility, Work, and Cost. Below is additional information on each. 
+Some details (e.g. appeals, noncompetitive procurement) are included for context and for use in the demo to add depth based on the user’s responses. However, these considerations need not be incorporated into every demo. 
+
+Applicant
+Is the Applicant an eligibility entity?
+Eligible Local Governments include but are not limited to:
+Counties and parishes
+Municipalities, cities, towns, boroughs, townships
+Local public authorities
+School districts
+Intrastate districts
+Councils of governments
+Regional and interstate government entities
+Agencies or instrumentalities of local governments
+State recognized Tribal Nations
+Special districts established under state law
+
+Facility
+Primary questions: Are the facilities where work was performed eligible?
+An eligible public facility is one that a state, local, Tribal Nation, or territorial (SLTT) government owns or has legal responsibility for maintaining.
+Eligible Facilities include but are not limited to:
+Systems (flood control, navigation, irrigation, reclamation, public power, sewage treatment/collection, water supply/distribution, watershed development)
+Buildings (maintenance/storage sheds, restroom facilities, bath houses, outbuildings including ancillary facilities)
+Non-federal-aid streets, roads, highways, ramps, access roads
+Public buildings/structures/systems (educational, recreational, cultural purposes)
+Airport facilities including runways
+Parks (piers, docks, trails, benches, picnic tables, swimming pools, golf courses, ball fields)
+Other public facilities (pumping stations, communication towers/antennas, contents, supplies, equipment, vehicles, fences, parking lots, stairs, signage, lighting, sidewalks, gutters, ditches, guard rails, integral ground, catch basins, outfall structures)
+Active Use Requirement:
+Facility must have been in active use at start of incident period
+Inactive or partially inactive facilities are ineligible unless:
+Only temporarily inactive for repairs/remodeling (contractor not responsible for disaster damage)
+Applicant established future active use in approved budget/plans
+Applicant can demonstrate intent to begin use within reasonable time
+For partially occupied facilities, assistance prorated to percentage in active use
+
+Work
+Primary questions: Is the work performed, or planning to be performed, eligible?
+Work must meet ALL three criteria:
+Required as result of declared incident
+Impacts/damage occurred during declared incident period
+Damage caused directly by declared incident
+Work claimed is required to address incident-related impacts/damage
+INELIGIBLE examples:
+Previously existing damage or debris
+Impacts from different incident (even during same period)
+Damage occurring after incident period but before repairs
+Deterioration (wear and tear)
+Deferred maintenance
+Damage due to failure to protect facility timely
+Damage due to negligence
+Located within declared area (except sheltering, evacuation, EOC activities)
+Legal responsibility of eligible applicant
+Applicant had jurisdiction over area or legal authority to conduct work at time of incident.
+Documentation Requirements: Deed, title, lease agreement, bill of sale, land contract, mortgage documentation, property tax receipt, insurance policy, or contract
+
+Cost
+Primary questions: Are costs directly tied to the damages? Are the costs necessary and reasonable?
+All costs must be:
+Directly tied to performance of eligible work
+Adequately documented, substantiated, or certified
+Reduced by applicable credits (insurance proceeds, salvage values)
+FEMA must reduce eligible costs by actual or anticipated insurance proceeds and other financial assistance for same work
+Authorized and not prohibited under federal/state/local laws
+Consistent with applicant's internal policies applied uniformly
+Necessary and reasonable to accomplish work properly and efficiently 
+A cost is reasonable if it does not exceed what a prudent person would incur under prevailing circumstances. FEMA evaluates reasonableness by considering factors including but not limited to:
+Type generally recognized as ordinary and necessary for facility/work type
+Appropriate skill level and level of effort for required activity
+Sound business practices and arm's length bargaining
+Prudent action under circumstances
+Consistency with applicant's established practices/policies
+Compliance with procurement requirements
+Comparability to current market price in geographical area
+FEMA uses cost comparison methods including but not limited to:
+Historical documentation (previous contracts, invoices)
+Average costs in area (weighted average unit pricing)
+Published unit costs from national databases (RS Means, BNi Costbooks, etc.)
+Federal, state, territorial unit costs
+FEMA cost codes
+For contract work, noncompetitive procurement is only allowed when circumstances include but are not limited to:
+Item available from one source only
+Public exigency/emergency won't permit competitive delay
+FEMA/recipient expressly authorizes
+Competition determined inadequate after soliciting several sources
+Force Account (Applicant Personnel) Labor:
+Reimbursement Basis: Actual hourly rates plus actual fringe benefits percentage
+Eligible Fringe Benefits include but are not limited to: Holiday leave, accrued sick/vacation leave, social security/Medicare matching, unemployment insurance, workers' compensation, retirement, health/life/disability insurance, administrative leave
+Ineligible Labor Costs: Employees on leave (regardless of leave type availability), administrative leave for employees sent home due to emergency conditions
+Equipment Costs:
+Applicant-Owned Equipment: FEMA published equipment rates (includes depreciation, overhead, overhaul, maintenance, lubrication, tires, ground engaging components, fuel)
+Rented/Leased Equipment: Based on rental agreement terms if applicant analyzed rental vs. purchase costs and total rental costs don't exceed purchase/maintenance costs over project life
+Materials and Supplies:
+Eligible: Purchased and justifiably needed for incident response/recovery OR taken from applicant stock and used for incident (with proper inventory tracking)
+Contract Costs:
+Basic Requirements: Must comply with federal procurement requirements, full and open competition (with limited exceptions), cost or price analysis for procurements above simplified acquisition threshold, contractor integrity evaluation, suspension/debarment verification
+Prohibited Contract Types: Cost-plus-percentage-of-cost contracts, percentage-of-construction contracts, time-and-materials (limited exceptions with ceiling price and high oversight)
+
+Appeals Process
+If the Applicant disagrees with FEMA’s eligibility determinations, it can pursue the appeals process. 
+First Appeal: To Regional Administrator within 60 days of determination
+Second Appeal: To Assistant Administrator within 60 days of first appeal decision
+Requirements: Written justification, specific funding amounts in dispute, legal/regulatory basis for disagreement
