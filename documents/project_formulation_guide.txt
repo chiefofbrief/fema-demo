@@ -1,0 +1,50 @@
+Project Formulation Guide
+
+Overview:
+Identify Work Category (A, B, C-G). 
+If a damage is not in categories A or B, it is not covered by the Emergency Declaration in our prototype demo scenario. 
+Apply Initial Grouping Rules (by location, type, facility).
+When grouping mixed work types, the project category is based on the predominant work being performed.
+Check Separation Requirements (EHP, flood, technical, etc.). One of the primary goals of separation is to allow damages to be processed quickly by avoiding including complex or potentially ineligible damages in projects with clearly eligible and simple damages. 
+Evaluate Administrative Efficiency (minimize PWs while maintaining logic)
+
+
+Category A - Debris Removal
+Initial Groupings: FEMA initially groups debris removal by location type:
+All debris removal from public property
+All debris removal from waterways
+All debris removal from private non-commercial property
+All debris removal from commercial property
+All debris removal from private roads
+
+Category B - Emergency Protective Measures
+Initial Groupings: FEMA initially groups emergency protective measures by type:
+All private property demolition
+All emergency response activities (except those conducted on private property)
+Any emergency protective measures performed on private property
+All emergency protective measures that involve facility construction or repairs
+Each individual temporary facility (separate project for each)
+
+Separation Recommended
+In the following scenarios, it is recommended to separate projects to prevent delaying funding due to the complexity of a component of a project:
+Environmental/Historic Preservation (EHP): Sites anticipated to require complex EHP reviews (work in waterways, ground disturbance, historical buildings, etc.)
+Flood Considerations: Sites in Special Flood Hazard Area (SFHA) may need separation.
+Technical Requirements: Sites needing architectural/engineering design or studies to determine restoration method.  Complex facilities requiring specialized technical support (wastewater treatment plants, dams, hospitals, schools). 
+Work Status: Facilities with 100% work completed should be separated from incomplete work. 
+
+Eligibility Concerns:
+Sites that potentially have ineligible work
+Administrative Burden: Projects that would be too burdensome to review due to the number of sites/facilities. Consider separating geographically or into multiple projects
+Mutual Agreement: Applicant and FEMA agree specific circumstances make combination illogical
+
+Project Components
+Every project should include the following components:
+Title: Use format "Category [A/B] - [Location/Facility] - [Brief Description]" (e.g., "Category A - Main Street - Tree Debris Removal")
+Damage Description: Detailed description of disaster-related damage. Combine individual damage items into a comprehensive project description. 
+Scope of Work: Describe specific work to be performed to address all damage in the project. 
+Cost Estimate: Sum individual damage costs, note if completed vs. estimated work.
+Category Assignment: A-G based on type of work
+Location Information: GPS coordinates or address, facility
+Special Considerations: EHP, insurance, mitigation factors
+
+
