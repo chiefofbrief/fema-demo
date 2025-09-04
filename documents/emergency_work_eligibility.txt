@@ -1,0 +1,147 @@
+Emergency Work Eligibility Considerations
+
+Overview:
+This document provides detailed eligibility criteria for Categories A & B emergency work. For foundational eligibility requirements (applicant, facility, basic work criteria, and cost standards), see General Eligibility Considerations.
+Some details (e.g. Disposal and Reduction Methods, Structural Protection) are included for context and for use in the demo to add depth based on the user’s responses. However, these considerations need not be incorporated into every demo.
+
+General Emergency Work Framework
+Work is eligible if it must be done immediately to:
+Save lives
+Protect public health and safety
+Protect improved property
+Eliminate or lessen an immediate threat of additional impacts and damage.
+Threat of additional damage or destruction from an incident that can reasonably be expected to occur within five years of the declared incident. The declared incident must have caused the immediate threat to exist.
+Regulatory Completion Deadline for emergency work: Six months from declaration date (extensions possible).
+Work Eligibility Prerequisites: Must meet all basic work eligibility criteria (see General Eligibility Considerations).
+Federal Agency Exclusions: Ineligible if other federal agency has specific authority:
+Federal-aid highways (FHWA)
+Flood control works (USACE)
+Watershed structures (NRCS)
+
+Category A: Debris Removal
+Public Interest Requirement: Debris removal eligible if necessary to:
+Eliminate immediate threats to life, public health and safety
+Eliminate immediate threats of significant damage to improved public or private property
+Ensure economic recovery of affected community to benefit community-at-large
+Labor eligibility for employees:
+Budgeted Employees: Both straight-time and overtime eligible
+Unbudgeted Employees: Both straight-time and overtime eligible
+Unbudgeted Employee Types: Reassigned employees, called back from furlough, temporary hires, seasonal employees working outside normal season
+Eligible Debris Types Includes but is not limited to:
+Vegetative debris (tree limbs, branches, stumps, trees)
+Eligible: Trees, limbs, branches, stumps still in place but damaged to extent they pose immediate threat to life, public health/safety, or significant damage to improved property
+Ineligible: Hazard existed prior to incident OR item is in natural area and doesn't threaten improved property or public-use areas
+Documentation Required: Specifics of immediate threat with location and photo/video evidence
+Construction and demolition debris
+Sand, mud, silt, gravel, rocks, boulders
+White goods
+Vehicle and vessel wreckage: Eligible if ALL conditions met:
+Vehicle/vessel blocks access to public-use area
+Vehicle/vessel is abandoned
+Applicant follows applicable SLTT ordinances/laws for removal
+Applicant documents handling of vehicle/vessel
+Debris in waterways or preserved natural areas may be eligible but can pose many environmental concerns and red flags. A FEMA Environmental Specialist should be involved in the process. For example, in waterways:
+Eligible: When necessary to eliminate immediate threat to life, public health/safety, or improved property
+Pre-existing Debris: Ineligible - satellite imagery or bathymetric surveys may be needed to prove debris was deposited by incident
+Required Coordination: EPA (inland waters), USCG (coastal waters), USACE (permits), NMFS/USFWS (Endangered Species Act)
+Ineligible Debris Removal Locations
+Federally maintained navigable channels and waterways (USCG/USACE authority). 
+Agricultural land
+Natural, unimproved land (heavily wooded areas, unused areas)
+Private commercial property debris placed on public ROWs (very limited exceptions)
+Construction/renovation materials from private structures
+Applicant must document the debris Disposal and Reduction Methods:
+Landfill disposal
+Volume reduction (mulching, grinding, burning)
+Recycling and material separation
+Sand disposal on public beaches (if most cost-effective)
+Temporary staging sites (TDSR) establishment and operation
+Debris Monitoring Requirements (for Contracted Operations):
+Mandatory: Must monitor all contracted debris removal from collection to final disposal
+Eligible Activities: Field supervisory oversight, monitoring at loading/disposal sites, compiling documentation, training monitors
+Staffing: Professional engineers/certified professionals not necessary unless justified
+Training: FEMA provides training to applicant's debris monitors upon request
+
+Category B: Emergency Protective Measures
+Emergency protective measures conducted before, during, and after an incident are eligible if they:
+Eliminate or lessen immediate threats to lives, public health or safety
+Eliminate or lessen immediate threats of significant additional damage to improved public or private property in a cost-effective manner
+Labor eligibility for employees:
+Budgeted Employees: Only overtime eligible
+Unbudgeted Employees: Both straight-time and overtime eligible.
+Unbudgeted Employee Types: Reassigned employees, called back from furlough, temporary hires, seasonal employees working outside normal season
+Life Safety Operations
+Response and Rescue Activities: Includes but is not limited to:
+Pre-positioning equipment/resources for response
+Search and rescue (survivors, household pets, service animals)
+Firefighting
+Emergency Operations Center (EOC) activities
+Public information dissemination (health/safety warnings and guidance)
+Human remains (location, recovery, storage, interment, mass mortuary services)
+Security (barricades, fencing, law enforcement)
+Medical Care Operations:
+When Eligible: Emergency medical delivery system destroyed, compromised, or overwhelmed
+Time Limit: Up to 30 days (extensions require FEMA approval)
+Eligible Activities: Triage, tests, diagnosis, treatment, stabilization, monitoring, patient assessment, first aid, 30-day prescription supply, vaccinations, durable medical equipment, consumable supplies, temporary facilities, security for facilities, mobile medical units
+Cost Basis: Medicare cost-to-charge ratio
+Requirements: Must verify no insurance/other funding source coverage
+Ineligible: Inpatient care, follow-up/long-term treatment, administrative costs
+Transportation and Evacuation:
+Eligible Passengers: Survivors, household pets, service/assistance animals, luggage, durable medical equipment
+Eligible Activities: Patient transfers between facilities, emergency medical transport, one-time evacuation transportation, paratransit services, evacuee/animal tracking, food/hydration during transport, emergency care during transport, evacuation injury stabilization, pre-incident preparation
+Sheltering Operations:
+Coverage: Survivors, household pets, service/assistance animals
+Funding: FEMA funds SLTT governments only (even if services contracted)
+Requirements: Safe, sanitary, secure temporary refuge with functional needs support
+Operations: 24-hour or limited-hour (cooling/warming centers)
+Supplies and Logistics:
+Eligible Items: Life-saving/life-sustaining supplies (food, water, ice, hygiene items, cots, blankets, tarps, generators, pet supplies)
+Distribution: Direct to impacted community, including delivery to unsheltered residents when items not easily accessible
+Mass Care: Emergency feeding operations eligible
+Meals for Workers:
+Eligible Recipients: Employees/volunteers in eligible emergency work not receiving per diem
+Requirements: Must meet one of: required by labor policy/agreement, abnormal extended hours without meal time, food/water not reasonably available
+Restrictions: Bulk meals only; no restaurants or individual meals
+Property Protection Operations
+Structural Protection: Includes but is not limited to:
+Emergency berms/temporary levees (flood/landslide protection)
+Emergency repairs to prevent further damage (roof covering, etc.)
+Structural stabilization (buttressing, shoring, bracing to prevent collapse)
+Emergency slope stabilization (eliminate threat to improved property - limited to immediate threat area only)
+Contents removal/storage (minimize additional damage to eligible facilities)
+Flood Fighting:
+Eligible Activities: Sandbagging, dewatering behind levees, increasing levee height
+Special Note: Eligible even if facility eligible for USACE RIP (USACE can't reimburse flood fighting)
+Emergency Access:
+Purpose: Provide access to essential services or cut-off communities
+Scope: Limited to what's necessary for passable access
+Note: Additional debris clearance beyond access needs is Category A work
+Hazardous Materials Management:
+Eligible Activities: Separation, specialized handling/disposal, control/stabilization, contaminated water pumping, cleanup/disposal
+Testing: Short-term testing eligible; long-term cleanup testing ineligible
+Requirements: Must comply with federal/SLTT environmental requirements, certified hazardous waste specialists, RCRA compliance
+Mold Remediation:
+When Eligible: Must threaten public health or increase repair costs, not result of poor maintenance
+Eligible Activities: Wet vacuuming, damp wiping, HEPA vacuuming, contaminated material removal, HVAC/mechanical equipment cleaning
+Requirements: Follow SLTT guidelines, professional sampling required, samplers must not be employed by remediation company
+Sampling: Pre-sampling eligible only if mold found; post-sampling for completion verification
+Emergency Repair/Stabilization:
+When Eligible: Must eliminate/lessen immediate threat and be temporary in nature
+Distinction: Work restoring pre-disaster design/function is permanent work (except power restoration)
+Special Operations
+Temporary Service Relocation:
+Eligible Services: Education, elections, emergency services, medical care, homeless/DV shelters, prisons, utilities, public health/safety services, essential administration/support
+Ineligible Services: Museums, zoos, community centers, performing arts, recreation, athletic stadiums, houses of worship, housing, custodial care, libraries, research facilities
+Criteria: Emergency repairs can't make facility usable OR facility unsafe requiring unacceptable operational suspension OR facility lacks critical utilities and temporary restores services faster
+Private Property Work:
+Requirements: Widespread immediate threat affecting numerous properties, applicant has legal authority, rights-of-entry with indemnification obtained
+Limited to: Unsafe structure demolition, animal carcass removal, Operation Blue Roof, emergency access, septic/well contamination, building safety inspections, slope stabilization
+Increased Operating Costs:
+Requirements: Services specifically related to eligible emergency actions, limited timeframe, additional costs tracked/documented
+Eligible Examples: Water testing/treatment, increased pump fuel/electricity
+Ineligible Examples: Patient care, administrative activities, food provision, alternate power/water sources, school make-up days
+Collateral Damage Repair:
+When Eligible: Public property/supplies/equipment damaged during eligible emergency work if due to severe conditions, unavoidable, not due to improper use
+Equipment: Requires maintenance records
+Ineligible: Tree/shrub/ground cover replacement, crops/agriculture
+Private Property: Only if easement with legal repair responsibility OR leased property with lease repair responsibility
